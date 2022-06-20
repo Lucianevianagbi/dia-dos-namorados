@@ -2,9 +2,9 @@ Coração pulsando - Dia dos Namorados
   
   ## :book: Projeto para homenagear amor da minha vida!
    
-  ### :link: Visualização do Projeto: https://dia-dos-namorados-kohl.vercel.app/
+  ### :link:   Visualização do Projeto: https://dia-dos-namorados-kohl.vercel.app/
 
-  ### :link: Video de referencia: https://www.youtube.com/watch?v=uGG5aHlnwgE&ab_channel=OnlineTutorials
+  ### :link:   Video de referencia: https://www.youtube.com/watch?v=uGG5aHlnwgE&ab_channel=OnlineTutorials
 
    # :computer: Technologies Used:
    
