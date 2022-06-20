@@ -1,6 +1,6 @@
 Coração pulsando - Dia dos Namorados
   
-  ## :book: Projeto para homenagear amor da minha vida!
+  ## :book: Projeto para homenagear amor da minha vida!  :heart:
    
   ### :link:   Visualização do Projeto: https://dia-dos-namorados-kohl.vercel.app/
 
