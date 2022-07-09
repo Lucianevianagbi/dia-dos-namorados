@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="./LICENSE">![GitHub](https://img.shields.io/github/Lucianevianagbi/dia-dos-namorados?style=plastic)</a>
+![license](https://img.shields.io/github/license/Lucianevianagbi/dia-dos-namorados?style=plastic)
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=dia-dos-namorados&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Lucianevianagbi/dia-dos-namorados?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lucianevianagbi/dia-dos-namorados?color=yellow&style=plastic)
